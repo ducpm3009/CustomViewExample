@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom View Example</string>
+    <string name="swap_color">swap color</string>
+</resources>
